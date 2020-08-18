@@ -43,3 +43,5 @@ const exeReverse = obj => {
 //     return { [exeReverse(tmpData[1])]: tmpData[0] }
 //   }
 }
+
+export default JSONReverse
