@@ -18,7 +18,7 @@ const JSONReverse = obj => {
     reverseRlt = { [tmpArr[index]]: reverseRlt }
   }
   
-  console.log(reverseRlt);
+  return reverseRlt;
 }
 
 const exeReverse = obj => {
